@@ -1,0 +1,151 @@
+Temperatura,Llueve,Coche,Día,Juega
+baja,no,si,lunes,si
+baja,no,si,martes,si
+templado bajo,poco,no,miércoles,no
+templado bajo,poco,no,jueves,no
+templado ,mucho,si,viernes,no
+muy baja,mucho,si,sábado,no
+baja,poco,si,domingo,si
+baja,no,si,lunes,si
+templado bajo,no,si,martes,no
+templado,no,no,miércoles,no
+templado alto,mucho,no,jueves,no
+baja,mucho,si,viernes,no
+baja,no,no,sábado,no
+baja,no,no,domingo,si
+muy baja,poco,si,lunes,si
+templado,poco,no,martes,no
+templado,no,si,miércoles,no
+templado,no,si,jueves,si
+baja,no,si,viernes,si
+muy baja,mucho,no,sábado,no
+baja,mucho,no,domingo,no
+templada,no,no,lunes,no
+baja,mucho,si,martes,no
+baja,no,si,miércoles,si
+muy baja,no,si,jueves,si
+templado bajo,mucho,si,viernes,no
+templado bajo,poco,si,sábado,no
+muy baja,no,si,domingo,si
+baja,no,si,lunes,si
+baja,no,si,martes,si
+templado bajo,poco,no,miércoles,no
+templado bajo,poco,no,jueves,no
+templado ,mucho,si,viernes,no
+muy baja,mucho,si,sábado,no
+baja,poco,si,domingo,si
+baja,no,si,lunes,si
+templado bajo,no,si,martes,no
+templado,no,no,miércoles,no
+templado alto,mucho,no,jueves,no
+baja,mucho,si,viernes,no
+baja,no,no,sábado,no
+baja,no,no,domingo,si
+muy baja,poco,si,lunes,si
+templado,poco,no,martes,no
+templado,no,si,miércoles,no
+templado,no,si,jueves,si
+baja,no,si,viernes,si
+muy baja,mucho,no,sábado,no
+baja,mucho,no,domingo,no
+templada,no,no,lunes,no
+baja,mucho,si,martes,no
+baja,no,si,miércoles,si
+muy baja,no,si,jueves,si
+templado bajo,mucho,si,viernes,no
+templado bajo,poco,si,sábado,no
+muy baja,no,si,domingo,si
+baja,no,si,lunes,si
+baja,no,si,martes,si
+templado bajo,poco,no,miércoles,no
+templado bajo,poco,no,jueves,no
+templado ,mucho,si,viernes,no
+muy baja,mucho,si,sábado,no
+baja,poco,si,domingo,si
+baja,no,si,lunes,si
+templado bajo,no,si,martes,no
+templado,no,no,miércoles,no
+templado alto,mucho,no,jueves,no
+baja,mucho,si,viernes,no
+baja,no,no,sábado,no
+baja,no,no,domingo,si
+muy baja,poco,si,lunes,si
+templado,poco,no,martes,no
+templado,no,si,miércoles,no
+templado,no,si,jueves,si
+baja,no,si,viernes,si
+muy baja,mucho,no,sábado,no
+baja,mucho,no,domingo,no
+templada,no,no,lunes,no
+baja,mucho,si,martes,no
+baja,no,si,miércoles,no
+muy baja,no,si,jueves,si
+templado bajo,mucho,si,viernes,no
+templado bajo,poco,si,sábado,no
+muy baja,no,si,domingo,si
+baja,no,si,lunes,si
+baja,no,si,martes,si
+templado bajo,poco,no,miércoles,no
+templado bajo,poco,no,jueves,no
+templado ,mucho,si,viernes,no
+muy baja,mucho,si,sábado,no
+baja,poco,si,domingo,si
+baja,no,si,lunes,si
+templado bajo,no,si,martes,no
+templado,no,no,miércoles,no
+templado alto,mucho,no,jueves,no
+baja,mucho,si,viernes,no
+baja,no,no,sábado,no
+baja,no,no,domingo,si
+muy baja,poco,si,lunes,si
+templado,poco,no,martes,no
+templado,no,si,miércoles,no
+templado,no,si,jueves,si
+baja,no,si,viernes,si
+muy baja,mucho,no,sábado,no
+baja,mucho,no,domingo,no
+templada,no,no,lunes,no
+baja,mucho,si,martes,no
+baja,no,si,miércoles,no
+muy baja,no,si,jueves,si
+templado bajo,mucho,si,viernes,no
+templado bajo,poco,si,sábado,no
+muy baja,no,si,domingo,si
+baja,no,si,lunes,si
+baja,no,si,martes,si
+templado bajo,poco,no,miércoles,no
+templado bajo,poco,no,jueves,no
+templado ,mucho,si,viernes,no
+muy baja,mucho,si,sábado,no
+baja,poco,si,domingo,si
+baja,no,si,lunes,si
+templado bajo,no,si,martes,no
+templado,no,no,miércoles,no
+templado alto,mucho,no,jueves,no
+baja,mucho,si,viernes,no
+baja,no,no,sábado,no
+baja,no,no,domingo,si
+muy baja,poco,si,lunes,si
+templado,poco,no,martes,no
+templado,no,si,miércoles,no
+templado,no,si,jueves,si
+baja,no,si,viernes,si
+muy baja,mucho,no,sábado,no
+baja,mucho,no,domingo,no
+templada,no,no,lunes,no
+baja,mucho,si,martes,no
+baja,no,si,miércoles,no
+muy baja,no,si,jueves,si
+templado bajo,mucho,si,viernes,no
+templado bajo,poco,si,sábado,no
+muy baja,no,si,domingo,si
+baja,no,si,lunes,si
+baja,no,si,martes,si
+templado bajo,poco,no,miércoles,no
+templado bajo,poco,no,jueves,no
+templado ,mucho,si,viernes,no
+muy baja,mucho,si,sábado,no
+baja,poco,si,domingo,si
+baja,no,si,lunes,si
+templado bajo,no,si,martes,si
+templado,no,no,miércoles,si
